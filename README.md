@@ -5,7 +5,7 @@ lab01 - Numpy, Pandas and Matplotlib
 
 lab02 - Feature selection and GridSearch
 
-lab03 - Weather Predict Competition
+lab03 - Weather Predict Competition!!!
 
 lab04 - Text Classification
 
