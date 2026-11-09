@@ -11,4 +11,4 @@ lab04 - Text Classification
 
 lab05 - Regression and Clustering
 
-afterlife -a lot of small tasks on each topic
+exam -a lot of small tasks on each topic
